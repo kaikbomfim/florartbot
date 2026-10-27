@@ -1,0 +1,314 @@
+[
+  {
+    "nome": "Rosa",
+    "cientifico": "Rosa spp.",
+    "sinonimos": ["roseira", "rosas"],
+    "toxicidade": {
+      "caes": "não tóxica",
+      "gatos": "não tóxica",
+      "observacao": "o risco está nos espinhos, que podem ferir boca e patas"
+    },
+    "floracao": "primavera ao outono, com pico na primavera; em clima ameno floresce quase o ano todo",
+    "luz": "sol pleno, pelo menos 6 horas de sol direto por dia",
+    "rega": "2 a 3 vezes por semana, mantendo o solo úmido sem encharcar e sem molhar as folhas"
+  },
+  {
+    "nome": "Lírio",
+    "cientifico": "Lilium spp.",
+    "sinonimos": ["lirios", "lirio asiatico", "lirio oriental"],
+    "toxicidade": {
+      "caes": "baixa toxicidade, pode causar desconforto gastrointestinal leve",
+      "gatos": "extremamente tóxico, pode causar insuficiência renal aguda",
+      "observacao": "em gatos, qualquer parte é perigosa, inclusive o pólen e a água do vaso; procure um veterinário imediatamente em caso de contato"
+    },
+    "floracao": "primavera e verão",
+    "luz": "sol pleno a meia-sombra, com sol da manhã",
+    "rega": "2 vezes por semana, sem deixar água acumulada no bulbo"
+  },
+  {
+    "nome": "Orquídea-borboleta",
+    "cientifico": "Phalaenopsis spp.",
+    "sinonimos": ["orquidea", "orquideas", "phalaenopsis", "falenopsis"],
+    "toxicidade": {
+      "caes": "não tóxica",
+      "gatos": "não tóxica",
+      "observacao": "evite que o animal mastigue o substrato e as raízes"
+    },
+    "floracao": "inverno e primavera; as flores duram de 2 a 3 meses",
+    "luz": "luz clara e indireta, sem sol direto nas horas mais quentes",
+    "rega": "1 vez por semana, quando o substrato estiver seco, sem deixar água parada no vaso"
+  },
+  {
+    "nome": "Girassol",
+    "cientifico": "Helianthus annuus",
+    "sinonimos": ["girassois"],
+    "toxicidade": {
+      "caes": "não tóxico",
+      "gatos": "não tóxico",
+      "observacao": "sementes em excesso podem causar desconforto digestivo"
+    },
+    "floracao": "verão, cerca de 60 a 90 dias após a semeadura",
+    "luz": "sol pleno, o dia todo",
+    "rega": "2 a 3 vezes por semana, mais vezes em dias quentes"
+  },
+  {
+    "nome": "Tulipa",
+    "cientifico": "Tulipa spp.",
+    "sinonimos": ["tulipas"],
+    "toxicidade": {
+      "caes": "tóxica",
+      "gatos": "tóxica",
+      "observacao": "o bulbo concentra as toxinas; causa vômito, salivação e diarreia"
+    },
+    "floracao": "primavera; no Brasil os bulbos precisam de período de frio (geladeira) antes do plantio",
+    "luz": "sol pleno a meia-sombra",
+    "rega": "moderada, 2 vezes por semana, sem encharcar"
+  },
+  {
+    "nome": "Copo-de-leite",
+    "cientifico": "Zantedeschia aethiopica",
+    "sinonimos": ["copo de leite", "calla"],
+    "toxicidade": {
+      "caes": "tóxico",
+      "gatos": "tóxico",
+      "observacao": "contém cristais de oxalato de cálcio, que irritam boca e garganta"
+    },
+    "floracao": "inverno e primavera",
+    "luz": "meia-sombra",
+    "rega": "frequente, 3 vezes por semana, mantendo o solo sempre úmido"
+  },
+  {
+    "nome": "Antúrio",
+    "cientifico": "Anthurium andraeanum",
+    "sinonimos": ["anturio", "anturios"],
+    "toxicidade": {
+      "caes": "tóxico",
+      "gatos": "tóxico",
+      "observacao": "contém oxalato de cálcio; causa irritação oral e salivação"
+    },
+    "floracao": "o ano todo",
+    "luz": "luz clara e indireta",
+    "rega": "2 vezes por semana, borrifando as folhas em dias secos"
+  },
+  {
+    "nome": "Espada-de-são-jorge",
+    "cientifico": "Dracaena trifasciata",
+    "sinonimos": ["espada de sao jorge", "sansevieria", "espada de santa barbara"],
+    "toxicidade": {
+      "caes": "levemente tóxica",
+      "gatos": "levemente tóxica",
+      "observacao": "contém saponinas; pode causar vômito e diarreia"
+    },
+    "floracao": "rara, com pequenas flores perfumadas em plantas adultas",
+    "luz": "tolera sombra e sol, prefere luz indireta",
+    "rega": "a cada 15 a 20 dias, só com o solo totalmente seco"
+  },
+  {
+    "nome": "Violeta-africana",
+    "cientifico": "Saintpaulia ionantha",
+    "sinonimos": ["violeta", "violetas", "violeta africana"],
+    "toxicidade": {
+      "caes": "não tóxica",
+      "gatos": "não tóxica",
+      "observacao": "segura para ambientes com animais"
+    },
+    "floracao": "o ano todo, com pausas curtas",
+    "luz": "luz clara e indireta, sem sol direto",
+    "rega": "2 vezes por semana, pelo pratinho, sem molhar as folhas"
+  },
+  {
+    "nome": "Azaleia",
+    "cientifico": "Rhododendron simsii",
+    "sinonimos": ["azaleias", "azalea"],
+    "toxicidade": {
+      "caes": "tóxica",
+      "gatos": "tóxica",
+      "observacao": "contém grayanotoxinas; pode causar vômito, fraqueza e alterações cardíacas"
+    },
+    "floracao": "outono e inverno, de abril a agosto no Brasil",
+    "luz": "sol ameno ou meia-sombra",
+    "rega": "2 a 3 vezes por semana, em solo ácido e bem drenado"
+  },
+  {
+    "nome": "Hortênsia",
+    "cientifico": "Hydrangea macrophylla",
+    "sinonimos": ["hortensia", "hortensias"],
+    "toxicidade": {
+      "caes": "tóxica",
+      "gatos": "tóxica",
+      "observacao": "contém glicosídeos cianogênicos; causa vômito e diarreia"
+    },
+    "floracao": "primavera e verão",
+    "luz": "meia-sombra, com sol da manhã",
+    "rega": "frequente, 3 vezes por semana; murcha rápido com falta de água"
+  },
+  {
+    "nome": "Margarida",
+    "cientifico": "Leucanthemum vulgare",
+    "sinonimos": ["margaridas"],
+    "toxicidade": {
+      "caes": "levemente tóxica",
+      "gatos": "levemente tóxica",
+      "observacao": "pode causar vômito, salivação e dermatite"
+    },
+    "floracao": "primavera e verão",
+    "luz": "sol pleno",
+    "rega": "2 vezes por semana"
+  },
+  {
+    "nome": "Crisântemo",
+    "cientifico": "Chrysanthemum morifolium",
+    "sinonimos": ["crisantemo", "crisantemos"],
+    "toxicidade": {
+      "caes": "levemente tóxico",
+      "gatos": "levemente tóxico",
+      "observacao": "contém piretrinas; causa vômito, salivação e falta de coordenação"
+    },
+    "floracao": "outono; vasos comerciais são induzidos a florescer o ano todo",
+    "luz": "sol pleno ou muita claridade",
+    "rega": "2 a 3 vezes por semana"
+  },
+  {
+    "nome": "Begônia",
+    "cientifico": "Begonia spp.",
+    "sinonimos": ["begonia", "begonias"],
+    "toxicidade": {
+      "caes": "tóxica",
+      "gatos": "tóxica",
+      "observacao": "contém oxalatos, mais concentrados nos tubérculos"
+    },
+    "floracao": "primavera ao outono",
+    "luz": "meia-sombra ou luz indireta",
+    "rega": "moderada, 2 vezes por semana, sem molhar as folhas"
+  },
+  {
+    "nome": "Hibisco",
+    "cientifico": "Hibiscus rosa-sinensis",
+    "sinonimos": ["hibiscos", "mimo-de-venus"],
+    "toxicidade": {
+      "caes": "não tóxico",
+      "gatos": "não tóxico",
+      "observacao": "ingestão em grande quantidade pode causar desconforto digestivo"
+    },
+    "floracao": "primavera e verão, quase o ano todo em clima quente",
+    "luz": "sol pleno",
+    "rega": "2 a 3 vezes por semana"
+  },
+  {
+    "nome": "Lavanda",
+    "cientifico": "Lavandula angustifolia",
+    "sinonimos": ["alfazema"],
+    "toxicidade": {
+      "caes": "levemente tóxica",
+      "gatos": "levemente tóxica",
+      "observacao": "contém linalol; em grande quantidade causa náusea e vômito"
+    },
+    "floracao": "primavera e verão",
+    "luz": "sol pleno",
+    "rega": "pouca, 1 vez por semana; não tolera encharcamento"
+  },
+  {
+    "nome": "Gérbera",
+    "cientifico": "Gerbera jamesonii",
+    "sinonimos": ["gerbera", "gerberas"],
+    "toxicidade": {
+      "caes": "não tóxica",
+      "gatos": "não tóxica",
+      "observacao": "segura para ambientes com animais"
+    },
+    "floracao": "o ano todo, com pico na primavera",
+    "luz": "sol pleno ou sol da manhã",
+    "rega": "2 vezes por semana, sem molhar o centro da planta"
+  },
+  {
+    "nome": "Kalanchoe",
+    "cientifico": "Kalanchoe blossfeldiana",
+    "sinonimos": ["calanchoe", "flor-da-fortuna", "flor da fortuna"],
+    "toxicidade": {
+      "caes": "tóxica",
+      "gatos": "tóxica",
+      "observacao": "contém bufadienolídeos; pode causar vômito e alterações no ritmo cardíaco"
+    },
+    "floracao": "outono e inverno",
+    "luz": "sol direto ou muita claridade",
+    "rega": "a cada 7 a 10 dias, só com o solo seco"
+  },
+  {
+    "nome": "Bromélia",
+    "cientifico": "Guzmania spp.",
+    "sinonimos": ["bromelia", "bromelias", "guzmania"],
+    "toxicidade": {
+      "caes": "não tóxica",
+      "gatos": "não tóxica",
+      "observacao": "segura para ambientes com animais"
+    },
+    "floracao": "floresce uma única vez, com inflorescência que dura meses; depois gera brotos",
+    "luz": "luz clara e indireta",
+    "rega": "1 a 2 vezes por semana, mantendo um pouco de água no copo central e trocando-a para evitar mosquitos"
+  },
+  {
+    "nome": "Lírio-da-paz",
+    "cientifico": "Spathiphyllum wallisii",
+    "sinonimos": ["lirio da paz", "espatifilo"],
+    "toxicidade": {
+      "caes": "tóxico",
+      "gatos": "tóxico",
+      "observacao": "contém oxalato de cálcio; não é um lírio verdadeiro e não causa dano renal, mas irrita boca e garganta"
+    },
+    "floracao": "primavera e verão",
+    "luz": "sombra ou luz indireta",
+    "rega": "2 vezes por semana; as folhas murcham quando falta água"
+  },
+  {
+    "nome": "Jasmim",
+    "cientifico": "Jasminum officinale",
+    "sinonimos": ["jasmins", "jasmim-branco"],
+    "toxicidade": {
+      "caes": "não tóxico",
+      "gatos": "não tóxico",
+      "observacao": "não confundir com o jasmim-amarelo (Gelsemium), que é muito tóxico"
+    },
+    "floracao": "primavera e verão",
+    "luz": "sol pleno ou meia-sombra",
+    "rega": "2 vezes por semana"
+  },
+  {
+    "nome": "Camélia",
+    "cientifico": "Camellia japonica",
+    "sinonimos": ["camelia", "camelias"],
+    "toxicidade": {
+      "caes": "não tóxica",
+      "gatos": "não tóxica",
+      "observacao": "segura para ambientes com animais"
+    },
+    "floracao": "inverno",
+    "luz": "meia-sombra",
+    "rega": "2 vezes por semana, em solo ácido"
+  },
+  {
+    "nome": "Cravo",
+    "cientifico": "Dianthus caryophyllus",
+    "sinonimos": ["cravos", "craveiro"],
+    "toxicidade": {
+      "caes": "levemente tóxico",
+      "gatos": "levemente tóxico",
+      "observacao": "pode causar desconforto gastrointestinal e irritação na pele"
+    },
+    "floracao": "primavera e verão",
+    "luz": "sol pleno",
+    "rega": "moderada, 2 vezes por semana"
+  },
+  {
+    "nome": "Amarílis",
+    "cientifico": "Hippeastrum spp.",
+    "sinonimos": ["amarilis", "acucena", "hippeastrum"],
+    "toxicidade": {
+      "caes": "tóxica",
+      "gatos": "tóxica",
+      "observacao": "contém licorina, concentrada no bulbo; causa vômito, diarreia e tremores"
+    },
+    "floracao": "primavera, de setembro a novembro no Brasil",
+    "luz": "sol pleno a meia-sombra",
+    "rega": "moderada; reduza a rega quando as folhas secarem após a floração"
+  }
+]

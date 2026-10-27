@@ -1,0 +1,14 @@
+# segredos e ambiente
+.env
+.venv/
+
+# dados gerados
+cache/
+resultados/
+.matplotlib/
+__pycache__/
+
+# material de referência da disciplina e arquivos locais do editor
+referencias/
+.claudeprism/
+.prism/
