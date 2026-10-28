@@ -1,0 +1,21 @@
+{
+  "title": "FlorArtBot: sistema especialista em flores e plantas ornamentais",
+  "description": "Sistema especialista em Python sobre flores e plantas ornamentais, com LLM Gemini, cache semântico, ferramentas MCP de consulta a espécies e avaliação por LLM-as-a-Judge. Trabalho da disciplina Sistema Especialista para Web (IFBA).",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Bomfim, Kaik"
+    }
+  ],
+  "license": "cc0-1.0",
+  "language": "por",
+  "keywords": [
+    "sistema especialista",
+    "LLM",
+    "LLM-as-a-Judge",
+    "MCP",
+    "cache semântico",
+    "flores",
+    "plantas ornamentais"
+  ]
+}
