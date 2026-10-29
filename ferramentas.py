@@ -64,8 +64,4 @@ def consultar_luz_rega(especie: str):
     return f"{encontrada['nome']} ({encontrada['cientifico']}): luz: {encontrada['luz']}; rega: {encontrada['rega']}"
 
 if __name__ == "__main__":
-    # print(consultar_toxicidade("lírio"))
-    # print(consultar_floracao("girassol"))
-    # print(consultar_luz_rega("orquidea"))
-
     mcp.run(transport = "streamable-http", host = "0.0.0.0", streamable_http_path = "/mcp")
